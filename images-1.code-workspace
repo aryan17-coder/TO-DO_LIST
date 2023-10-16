@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "images-1",
+			"path": "../../../Downloads/images-1"
+		},
+		{
+			"name": "to do list",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "to do list"
+	}
+}
